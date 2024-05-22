@@ -1,4 +1,4 @@
-stuff = {'rope': 1, 'torch': 6, 'gold coin': 42, 'ring': 1, 'apple': 12}
+stuff = {'rope': 2, 'torch': 6, 'gold coin': 42, 'ring': 1, 'apple': 12}
 
 def displayInventory(inventory):
     output = "Inventory:\n"
